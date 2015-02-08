@@ -1,0 +1,58 @@
+{
+    "always_show_minimap_viewport": true,
+    "auto_complete_commit_on_tab": true,
+    // Distinguish folders from files.
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
+    "create_window_at_startup": false,
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+        ".DS_Store"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".bundle",
+        ".git",
+        ".sass-cache",
+        ".idea",
+        "tmp"
+    ],
+    "font_face": "Source Code Pro",
+    "font_options":
+    [
+        "no_bold",
+        "subpixel_antialias"
+    ],
+    "font_size": 10.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    // I'm not bad-ass enough for VIM mode. Someday I'll turn this back on.
+    "ignored_packages":
+    [
+        "CSS",
+        "Markdown",
+        "Vintage",
+        "SideBarEnhancements"
+    ],
+    // It will give your code lines some space to breathe and improve readability a lot.
+    "line_padding_bottom": 1.6,
+    "line_padding_top": 1.6,
+    "rulers":
+    [
+        120
+    ],
+    // I like to scroll so my last line of code can be at the top of the page.
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "soda_classic_tabs": false,
+    "soda_folder_icons": true,
+    "tab_size": 4,
+    "theme": "Spacegray Eighties.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_tab_stops": true,
+    "word-wrap": true
+}
